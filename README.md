@@ -1,3 +1,5 @@
+![WhatsApp Kit IA, por Pedro Pesantez · Pzdev](assets/banner.webp)
+
 # Plantilla: bot de WhatsApp con IA (Zernio + Gemini + Supabase + Cloudflare)
 
 Bot que atiende WhatsApp con IA gratuita y deja que una persona tome el chat
