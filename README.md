@@ -1,4 +1,22 @@
-![WhatsApp Kit IA, por Pedro Pesantez · Pzdev](assets/banner.webp)
+<p align="center">
+  <img src="assets/banner.webp" alt="WhatsApp Kit IA, por Pedro Pesantez · Pzdev">
+</p>
+
+<p align="center">
+  <a href="https://github.com/PzD3v/whatsapp-kit-IA/stargazers"><img src="https://img.shields.io/github/stars/PzD3v/whatsapp-kit-IA?label=stars&color=d9774f" alt="stars"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/licencia-MIT-d9774f" alt="Licencia MIT"></a>
+  <img src="https://img.shields.io/badge/Cloudflare-Workers-f38020?logo=cloudflare&logoColor=white" alt="Cloudflare Workers">
+  <img src="https://img.shields.io/badge/IA-Gemini-8e75b2?logo=googlegemini&logoColor=white" alt="IA Gemini">
+  <img src="https://img.shields.io/badge/base-Supabase-3ecf8e?logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/WhatsApp-Zernio-25d366?logo=whatsapp&logoColor=white" alt="WhatsApp Zernio">
+</p>
+
+<p align="center">
+  <a href="#qué-hace"><b>Qué hace</b></a> ·
+  <a href="#nuevo-cliente-en-6-pasos-unos-45-minutos">Inicio rápido</a> ·
+  <a href="#día-a-día">Día a día</a> ·
+  <a href="#avisos">Avisos</a>
+</p>
 
 # Plantilla: bot de WhatsApp con IA (Zernio + Gemini + Supabase + Cloudflare)
 
