@@ -68,3 +68,7 @@ Para generar secretos aleatorios (WEBHOOK y ADMIN):
 - **Cambiar de IA:** `LLM_BASE_URL`, `LLM_MODEL` y `LLM_API_KEY` aceptan cualquier proveedor compatible con OpenAI.
 
 Idea basada en [whatsapp-agentkit](https://github.com/Hainrixz/whatsapp-agentkit) (MIT, Enrique Rocha).
+
+## Licencia
+
+MIT © 2026 Pedro Pesantez - Pzdev. Ver [LICENSE](LICENSE).

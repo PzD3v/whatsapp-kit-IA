@@ -11,5 +11,7 @@
   },
   "devDependencies": {
     "wrangler": "^4.150.0"
-  }
+  },
+  "license": "MIT",
+  "author": "Pedro Pesantez - Pzdev"
 }
