@@ -1,0 +1,18 @@
+# CAMBIA "name" para cada cliente: es parte de la URL (https://<name>.<tu-subdominio>.workers.dev)
+name = "bot-whatsapp-cliente"
+main = "src/index.js"
+compatibility_date = "2026-06-01"
+
+# Valores que NO son secretos. Los secretos van con `npx wrangler secret put NOMBRE`.
+[vars]
+SUPABASE_URL = "https://TU-PROYECTO.supabase.co"
+LLM_BASE_URL = "https://generativelanguage.googleapis.com/v1beta/openai"
+LLM_MODEL = "gemini-3.5-flash-lite"
+HUMANO_TIMEOUT_HORAS = "8"
+
+# Limpieza diaria de la base (08:00 UTC)
+[triggers]
+crons = ["0 8 * * *"]
+
+[observability]
+enabled = true
